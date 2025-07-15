@@ -1,2 +1,2 @@
 hello world
-welcome all
+git is a version control software
